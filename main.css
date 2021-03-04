@@ -1,5 +1,6 @@
 html{
     background-color: rgb(245, 223, 245);
+    font-family:monospace
 }
 p{
     color: rgb(209, 54, 137);
@@ -19,5 +20,5 @@ img{
     grid-gap: 15px;
     width: 200px;
     height: 200px;
-    margin: 0 auto;
+    margin: 0px;
 }
