@@ -1,8 +1,15 @@
 html{
     background-color: rgb(214, 225, 250);
 }
-head{
-    background-color: turquoise;
+title{
+    color: turquoise;
 }
-ul{list-style: circle;}
-a{text-decoration: wavy;}
+p{
+    color: rgb(51, 27, 40);
+}
+ul{
+    list-style: circle;
+}
+a{
+    text-decoration: wavy;
+}
