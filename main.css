@@ -22,3 +22,14 @@ img{
     height: 200px;
     margin: 0px;
 }
+nav{
+    margin-right: auto;
+    text-align: left;
+}
+body{
+    margin-left: auto;
+    width: 900px;
+    background-color: yellow;
+    padding: 0 auto auto auto;
+    border: 5px seagreen;
+}
