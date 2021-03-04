@@ -1,5 +1,8 @@
 html{
-    background-color: rgb(76, 127, 238);
+    background-color: rgb(214, 225, 250);
+}
+head{
+    background-color: turquoise;
 }
 ul{list-style: circle;}
 a{text-decoration: wavy;}
